@@ -14,3 +14,5 @@ To display the skeleton animation
 > python3 plot_anim.py fall-01-cam0.mp4.openpifpaf.json
 
 Note that there are two persons in fall-13,14
+
+ur-fall-json.tar.gz: skeleton data extracted from ur-fall dataset

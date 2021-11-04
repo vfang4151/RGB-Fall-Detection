@@ -15,4 +15,4 @@ To display the skeleton animation
 
 Note that there are two persons in fall-13,14
 
-ur-fall-json.tar.gz: skeleton data extracted from ur-fall dataset
+ur-fall-json.tar.gz: skeleton dataset extracted from ur-fall dataset
